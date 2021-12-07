@@ -1,0 +1,12 @@
+[user]
+	name = RNCAT
+	email = jaruwat.works@gmail.com
+[core]
+	excludesFile = ~/.gitignore_global
+	editor = vim
+[init]
+	defaultBranch = main
+[hub]
+	protocol = https
+[credential]
+	helper = osxkeychain
